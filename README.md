@@ -11,7 +11,6 @@
 - :books: Learning and improving my C# & .NET skills :muscle:.
 
 ### Languages and Tools:
-<img align="left" alt="C#" width="22px" src="https://user-images.githubusercontent.com/61033391/95737651-6a036a80-0c5e-11eb-8f5d-c6274d6898ca.jpg" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/38151364/89708902-4ca9db80-d951-11ea-9a2f-e81e66fb4d0d.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
