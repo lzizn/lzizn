@@ -4,7 +4,7 @@
 
 - :man_technologist: In this profile you'll see some personal projects and some useful stuff that I forked.
 
-- :office: I’m currently working as Junior Developer on [Carambola](https://carambola.com.vc/). 
+- :office: I’m currently working as Developer on [Carambola](https://carambola.com.vc/). 
 
 - :mortar_board: Graduating in Computer Science - [Universidade Federal do Espírito Santo](https://www.ufes.br/).
 
