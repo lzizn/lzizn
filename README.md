@@ -1,9 +1,7 @@
-### 👋 Hello, I'm Laian!
+#  Laian Braum :man_technologist:
 
-- :office: Currently working as Developer on [Carambola](https://carambola.com.vc/). 
-
-- :mortar_board: Graduating in Computer Science - [Universidade Federal do Espírito Santo](https://www.ufes.br/).
-
+### :office: Currently working as Developer on [Carambola](https://carambola.com.vc/). 
+### :mortar_board: Graduating in Computer Science - [Universidade Federal do Espírito Santo](https://www.ufes.br/).
 
 
 <table>
