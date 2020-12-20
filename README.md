@@ -1,8 +1,8 @@
 #  Laian Braum :man_technologist:
 
-### :pushpin: Vitoria, ES, Brazil. 19 years.
+### :information_source: Brazilian living in Vitoria, ES. 19 years.
 ### :office: Currently working as Developer on [Carambola](https://carambola.com.vc/). 
-### :mortar_board: Graduating in Computer Science - [Universidade Federal do Espírito Santo](https://www.ufes.br/).
+### :mortar_board: Graduating in Computer Science - [Federal University of Espirito Santo](https://www.ufes.br/).
 ## My Development Stack
 
 | UI Design |
