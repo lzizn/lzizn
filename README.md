@@ -8,7 +8,7 @@
 
 | Coding activity and stats                                                                                    |
 |:----------------------------------------------------------------------------------------------------------:|
-|<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=laianbraum&count_private=true&show_icons=true&bg_color=30,B433FF,284AFF&title_color=fff&text_color=fff" /><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianbraum&hide=c,html&layout=compact&bg_color=30,B433FF,284AFF&title_color=fff&text_color=fff" />|
+|<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=laianbraum&count_private=true&show_icons=true&bg_color=30,B433FF,284AFF&title_color=fff&text_color=fff" /><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianbraum&hide=c&layout=compact&bg_color=30,B433FF,284AFF&title_color=fff&text_color=fff" />|
 
 </br>
 
