@@ -2,13 +2,18 @@
    <img src="https://user-images.githubusercontent.com/61033391/103419871-9f3f9a80-4b73-11eb-9353-dc2e9c046059.png" alt="LB Thumb" border="0" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://instagram.com/dev.braum">Instagram</a> •
+  <a href="https://linkedin/in/laianbraum">LinkedIn</a>
+</p>
+
 ---
 
 # 👨🏻‍💻 A little bit about me
 
 ## Hi there 👋🏻  
 
-:information_source: I'm Laian Braum, Developer at [Carambola](https://carambola.com.vc/), working over React.Js ecosystem.;
+:information_source: I'm Laian Braum, Developer at [Carambola](https://carambola.com.vc/), working over React.Js ecosystem.
 
 :mortar_board: Graduating in Computer Science - [Federal University of Espirito Santo](https://www.ufes.br/).
 
