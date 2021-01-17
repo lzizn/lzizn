@@ -19,4 +19,4 @@
 
 💻 My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b> and <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>
 
-:books: Currently learning: <img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" width="30"/> <b>Redux Saga</b>
+:books: Currently learning: <img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" width="30"/> <b>Redux Saga</b> & Testing with Cypress, Selenium and Jest.
