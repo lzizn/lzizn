@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/dev.braum">Instagram</a> •
   <a href="https://linkedin.com/in/laianbraum">LinkedIn</a>
 </p>
 
