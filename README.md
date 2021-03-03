@@ -12,7 +12,7 @@
 
 ## Hi there 👋🏻  
 
-:information_source: I'm Laian Braum, Developer at [Carambola](https://carambola.com.vc/), working over React.Js ecosystem.
+:information_source: I'm Laian Braum, Developer, working over React.Js ecosystem.
 
 :mortar_board: Graduating in Computer Science - [Federal University of Espirito Santo](https://www.ufes.br/).
 
