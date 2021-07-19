@@ -8,14 +8,10 @@
 
 ---
 
-# 👨🏻‍💻 A little bit about me
+:information_source: I'm a Fullstack Javascript/Typescript Developer, working over React and Node ecosystem.
 
-## Hi there 👋🏻  
-
-:information_source: I'm Laian Braum, Developer, working over React.Js ecosystem.
+💻 My favorites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/>   &   <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/>
 
 :mortar_board: Graduating in Computer Science - [Federal University of Espirito Santo](https://www.ufes.br/).
 
-💻 My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b> and <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>
-
-:books: Currently learning: Testing with Jest and React-testing library
+:books: Currently learning testing with Jest, Mocha and React-testing library
