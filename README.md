@@ -12,6 +12,6 @@
 
 💻 My favorites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/>   &   <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/>
 
-:mortar_board: Graduating in Computer Science - [Federal University of Espirito Santo](https://www.ufes.br/).
+:mortar_board: Sophomore in Computer Science - [Federal University of Espirito Santo](https://www.ufes.br/).
 
 :books: Currently learning testing with Jest, Mocha and React-testing library
