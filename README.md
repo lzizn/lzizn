@@ -14,4 +14,4 @@
 
 :mortar_board: Sophomore in Computer Science - [Federal University of Espirito Santo](https://www.ufes.br/).
 
-:books: Currently learning testing with Jest, Mocha and React-testing library
+:books: Currently exploring libraries like Zustand and frameworks like Remix and Svelte
