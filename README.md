@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/laianbraum">LinkedIn</a>
+   <a href="https://linkedin.com/in/laianbraum">• LinkedIn</a>
+   <br/>
+   <a href="https://gitlab.com/lzizn">• Gitlab (more accurate contrubution history) </a>
 </p>
 
 ---
 
 :information_source: I'm a Fullstack <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20"/>/<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/>   Developer, working over React and Node ecosystem.
-
-:handbag: Currently working as a full-time Node.js Backend Developer at [Palqee](https://palqee.com)
 
 :books: Always learning and improving. One step at a time.
