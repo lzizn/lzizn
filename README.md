@@ -5,7 +5,7 @@
 <p align="center">
    <a href="https://linkedin.com/in/laianbraum">• LinkedIn</a>
    <br/>
-   <a href="https://gitlab.com/lzizn">• Gitlab (more accurate contrubution history) </a>
+   <a href="https://gitlab.com/lzizn">• Gitlab</a>
 </p>
 
 ---
