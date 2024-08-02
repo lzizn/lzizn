@@ -23,10 +23,21 @@
 <br/>
 
 <div align="center">
-   <img height=200 align="center" src="https://github-readme-stats-one-henna.vercel.app/api?username=lzizn&count_private=true&show=prs_merged&hide=issues&theme=synthwave&custom_title=Laian%27s%20Stats" />
+   <a href="https://github.com/lzizn/github-readme-stats">
+     <img height=200 align="center" src="https://github-readme-stats-one-henna.vercel.app/api?username=lzizn&count_private=true&show=prs_merged&hide=issues&theme=synthwave&custom_title=Laian%27s%20Stats" />
+   </a>
+   <a href="https://github.com/lzizn/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats-one-henna.vercel.app/api/top-langs/?username=lzizn&count_private=false&hide=sql,TSQL&layout=compact&theme=synthwave&langs_count=8&card_width=350" />
+   </a>
 
    <br/>
    <br/>
 
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzizn&count_private=true&layout=compact&theme=synthwave&langs_count=8" />
+   <a href="https://github.com/lzizn/happy-api-2024">
+     <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzizn&repo=happy-api-2024" />
+   </a>
+   <a href="https://github.com/lzizn/weather">
+     <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzizn&repo=weather" />
+   </a>
 </div>
+
