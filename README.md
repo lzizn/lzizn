@@ -2,7 +2,7 @@
 
    ### Hey there, I'm Laian
    
-   <h6>A passionate Senior Software Engineer based in Brazil</h6>
+   <h6>A passionate Software Engineer based in Brazil</h6>
 
    <p>
       <img src="https://user-images.githubusercontent.com/61033391/107703336-439c1d00-6c9a-11eb-8613-e93b7ddf6a40.jpg" alt="LB Thumb" border="0" width="40%"/>
